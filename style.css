@@ -1,0 +1,13 @@
+header {
+    background: #FD739C;
+    color: #fff;
+}
+
+h1, h2 {
+    font-family: Arial;
+}
+
+p {
+    font-size: 22px;
+    line-height: 34px;
+}
